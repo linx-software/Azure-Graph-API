@@ -26,6 +26,7 @@ Select the TestAddandListEvents function, add in your TenantID, ClientSecret and
 
 ### Use it in your own Linx solution
 Copy the relevant function along with its types folder to your solution and call it from anywhere.
+Also note that you will need to create a setting for the MsGraphApiUrl - this is to facilitate easier switching when a new version of the API comes out. 
 
 ### Notes
 In order for the solution to work correctly, you must ensure that the correct permissions are applied to your Azure/Graph instance. 
