@@ -1,0 +1,221 @@
+{
+  "Id": "4Jw5",
+  "Name": "Events_value",
+  "Properties": [
+    {
+      "Id": "Hdgw",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YR2d",
+      "Name": "createdDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "axe0",
+      "Name": "lastModifiedDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "ygs6",
+      "Name": "changeKey",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jBlV",
+      "Name": "categories",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "fwtM",
+      "Name": "transactionId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ALtA",
+      "Name": "originalStartTimeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gx7X",
+      "Name": "originalEndTimeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ixoL",
+      "Name": "iCalUId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JaHg",
+      "Name": "reminderMinutesBeforeStart",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "yYjI",
+      "Name": "isReminderOn",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "86MX",
+      "Name": "hasAttachments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "z5Pg",
+      "Name": "subject",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0DIR",
+      "Name": "bodyPreview",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4ORW",
+      "Name": "importance",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yGHX",
+      "Name": "sensitivity",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ppBk",
+      "Name": "isAllDay",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "PU0Y",
+      "Name": "isCancelled",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "IRbg",
+      "Name": "isOrganizer",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "R7kn",
+      "Name": "responseRequested",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "w1C0",
+      "Name": "seriesMasterId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DDUb",
+      "Name": "showAs",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rqK3",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "q28V",
+      "Name": "webLink",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0Bud",
+      "Name": "onlineMeetingUrl",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CvLB",
+      "Name": "isOnlineMeeting",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "uEBw",
+      "Name": "onlineMeetingProvider",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1hv4",
+      "Name": "allowNewTimeProposals",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "EAuo",
+      "Name": "occurrenceId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ryze",
+      "Name": "isDraft",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "RSeI",
+      "Name": "hideAttendees",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "iow5",
+      "Name": "responseStatus",
+      "Type": "Custom:zOU5"
+    },
+    {
+      "Id": "9GSA",
+      "Name": "body",
+      "Type": "Custom:xgxI"
+    },
+    {
+      "Id": "dktH",
+      "Name": "start",
+      "Type": "Custom:kuJ8"
+    },
+    {
+      "Id": "gQ5M",
+      "Name": "end",
+      "Type": "Custom:kuJ8"
+    },
+    {
+      "Id": "Cuds",
+      "Name": "location",
+      "Type": "Custom:FfjB"
+    },
+    {
+      "Id": "9XLP",
+      "Name": "locations",
+      "Type": "List:Custom:UU09"
+    },
+    {
+      "Id": "cy1Z",
+      "Name": "recurrence",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pPDr",
+      "Name": "attendees",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "zc94",
+      "Name": "organizer",
+      "Type": "Custom:Jz98"
+    },
+    {
+      "Id": "4yFh",
+      "Name": "onlineMeeting",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2SU9",
+      "Name": "calendar_64odata_46associationLink",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wRxk",
+      "Name": "calendar_64odata_46navigationLink",
+      "Type": "Compiled:String"
+    }
+  ]
+}

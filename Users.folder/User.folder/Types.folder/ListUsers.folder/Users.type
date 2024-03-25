@@ -1,0 +1,11 @@
+{
+  "Id": "GjkK",
+  "Name": "Users",
+  "Properties": [
+    {
+      "Id": "1gpb",
+      "Name": "value",
+      "Type": "List:Custom:Pitp"
+    }
+  ]
+}

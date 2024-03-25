@@ -1,0 +1,16 @@
+{
+  "Id": "z23h",
+  "Name": "Event_body",
+  "Properties": [
+    {
+      "Id": "3y5u",
+      "Name": "contentType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ELPX",
+      "Name": "content",
+      "Type": "Compiled:String"
+    }
+  ]
+}

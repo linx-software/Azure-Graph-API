@@ -1,0 +1,61 @@
+{
+  "Id": "Pitp",
+  "Name": "Users_value",
+  "Properties": [
+    {
+      "Id": "jZcQ",
+      "Name": "businessPhones",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "gSKL",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "E5le",
+      "Name": "givenName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZFF7",
+      "Name": "jobTitle",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UOHX",
+      "Name": "mail",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mz2z",
+      "Name": "mobilePhone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2jRV",
+      "Name": "officeLocation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EjhM",
+      "Name": "preferredLanguage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gZcM",
+      "Name": "surname",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1M6H",
+      "Name": "userPrincipalName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zOg4",
+      "Name": "id",
+      "Type": "Compiled:String"
+    }
+  ]
+}

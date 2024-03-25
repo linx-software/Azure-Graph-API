@@ -1,0 +1,61 @@
+{
+  "Properties": [
+    {
+      "Id": "ADmP",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetToken",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "beOq",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": null
+    },
+    {
+      "Id": "Ihe2",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": null
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "ADmP": "AccessToken",
+        "Ihe2": "CallendarID",
+        "beOq": "UserID",
+        "ZVDc": "Event"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "QyAX",
+        "Name": "Users.Calendar.Requests.CreateEvent",
+        "Parameters": "Generated:k8By",
+        "Result": "Custom:ntCw",
+        "IsValid": true,
+        "QualifiedPath": "FL:Users→FL:Calendar→FL:Requests→PC:CreateEvent"
+      },
+      "ValueType": "Linx.ProcessReference"
+    },
+    {
+      "Id": "ZVDc",
+      "Type": "Custom:Zkyb",
+      "ValueUsage": "RuntimeRead",
+      "Value": "{\"subject\":\"Linx Test Event\", \"body\":{\"contentType\":\"HTML\", \"content\":\"This is a test, please ignore\"}, \"start\":{\"dateTime\":\"2024-03-26T08:00:00\", \"timeZone\":\"South Africa Standard Time\"}, \"end\":{\"dateTime\":\"2024-03-26T09:00:00\", \"timeZone\":\"South Africa Standard Time\"}, \"location\":{\"displayName\":\"Microsoft Teams\"}}",
+      "ValueType": "String"
+    }
+  ],
+  "Result": "Custom:ntCw"
+}

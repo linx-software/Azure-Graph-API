@@ -1,0 +1,16 @@
+{
+  "Id": "xgxI",
+  "Name": "Events_value_body",
+  "Properties": [
+    {
+      "Id": "bGzN",
+      "Name": "contentType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kVbg",
+      "Name": "content",
+      "Type": "Compiled:String"
+    }
+  ]
+}

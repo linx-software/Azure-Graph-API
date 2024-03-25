@@ -1,0 +1,16 @@
+{
+  "Id": "77G8",
+  "Name": "Event_Response_responseStatus",
+  "Properties": [
+    {
+      "Id": "rtbZ",
+      "Name": "response",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j2pu",
+      "Name": "time",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

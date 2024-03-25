@@ -1,0 +1,26 @@
+{
+  "Id": "rrcE",
+  "Name": "OAuthType",
+  "Properties": [
+    {
+      "Id": "079x",
+      "Name": "token_type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eGDA",
+      "Name": "expires_in",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Fm4a",
+      "Name": "ext_expires_in",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "UuFj",
+      "Name": "access_token",
+      "Type": "Compiled:String"
+    }
+  ]
+}

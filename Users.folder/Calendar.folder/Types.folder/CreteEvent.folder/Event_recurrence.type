@@ -1,0 +1,16 @@
+{
+  "Id": "9ZBD",
+  "Name": "Event_recurrence",
+  "Properties": [
+    {
+      "Id": "0vNm",
+      "Name": "pattern",
+      "Type": "Custom:9Dtr"
+    },
+    {
+      "Id": "YVfp",
+      "Name": "range",
+      "Type": "Custom:iCwB"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "vhdZ",
+  "Name": "Event_Response_organizer",
+  "Properties": [
+    {
+      "Id": "RJk5",
+      "Name": "emailAddress",
+      "Type": "Custom:QVCc"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "iCwB",
+  "Name": "Event_recurrence_range",
+  "Properties": [
+    {
+      "Id": "dTDl",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5zl7",
+      "Name": "startDate",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

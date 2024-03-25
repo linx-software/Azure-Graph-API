@@ -1,0 +1,26 @@
+{
+  "Id": "FfjB",
+  "Name": "Events_value_location2",
+  "Properties": [
+    {
+      "Id": "cCpt",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "e7jZ",
+      "Name": "locationType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xnLF",
+      "Name": "uniqueId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hy4R",
+      "Name": "uniqueIdType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

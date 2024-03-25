@@ -1,0 +1,66 @@
+{
+  "Id": "RCRB",
+  "Name": "Users",
+  "Properties": [
+    {
+      "Id": "ETRL",
+      "Name": "_64odata_46context",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MMIh",
+      "Name": "businessPhones",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "FFWU",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "loDJ",
+      "Name": "givenName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nPUT",
+      "Name": "jobTitle",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qBOw",
+      "Name": "mail",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lVbh",
+      "Name": "mobilePhone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bwRE",
+      "Name": "officeLocation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DC00",
+      "Name": "preferredLanguage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NMtT",
+      "Name": "surname",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "36US",
+      "Name": "userPrincipalName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MCA8",
+      "Name": "id",
+      "Type": "Compiled:String"
+    }
+  ]
+}

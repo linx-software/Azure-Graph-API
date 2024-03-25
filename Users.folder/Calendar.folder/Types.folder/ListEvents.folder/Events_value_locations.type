@@ -1,0 +1,26 @@
+{
+  "Id": "UU09",
+  "Name": "Events_value_locations",
+  "Properties": [
+    {
+      "Id": "Y7cP",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ztNB",
+      "Name": "locationType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iWmJ",
+      "Name": "uniqueId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X766",
+      "Name": "uniqueIdType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

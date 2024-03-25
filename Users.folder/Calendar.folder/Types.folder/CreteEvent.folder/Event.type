@@ -1,0 +1,36 @@
+{
+  "Id": "Zkyb",
+  "Name": "Event",
+  "Properties": [
+    {
+      "Id": "nVuA",
+      "Name": "subject",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UAft",
+      "Name": "body",
+      "Type": "Custom:z23h"
+    },
+    {
+      "Id": "fILK",
+      "Name": "start",
+      "Type": "Custom:4fO0"
+    },
+    {
+      "Id": "xiPc",
+      "Name": "end",
+      "Type": "Custom:4fO0"
+    },
+    {
+      "Id": "w0Ns",
+      "Name": "location",
+      "Type": "Custom:Clj7"
+    },
+    {
+      "Id": "cKJv",
+      "Name": "recurrence",
+      "Type": "Custom:9ZBD"
+    }
+  ]
+}

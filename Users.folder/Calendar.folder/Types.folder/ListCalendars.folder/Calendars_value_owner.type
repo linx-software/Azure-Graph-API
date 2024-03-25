@@ -1,0 +1,16 @@
+{
+  "Id": "VCPg",
+  "Name": "Calendars_value_owner",
+  "Properties": [
+    {
+      "Id": "BGaB",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pXn3",
+      "Name": "address",
+      "Type": "Compiled:String"
+    }
+  ]
+}

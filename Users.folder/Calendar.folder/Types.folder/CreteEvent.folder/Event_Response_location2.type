@@ -1,0 +1,26 @@
+{
+  "Id": "1UkD",
+  "Name": "Event_Response_location2",
+  "Properties": [
+    {
+      "Id": "htHr",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jXtL",
+      "Name": "locationType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QW4l",
+      "Name": "uniqueId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3cQs",
+      "Name": "uniqueIdType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

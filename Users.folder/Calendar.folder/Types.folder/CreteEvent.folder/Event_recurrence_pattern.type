@@ -1,0 +1,26 @@
+{
+  "Id": "9Dtr",
+  "Name": "Event_recurrence_pattern",
+  "Properties": [
+    {
+      "Id": "AtyO",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CdFl",
+      "Name": "interval",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "eBNu",
+      "Name": "daysOfWeek",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "9qXf",
+      "Name": "index",
+      "Type": "Compiled:String"
+    }
+  ]
+}

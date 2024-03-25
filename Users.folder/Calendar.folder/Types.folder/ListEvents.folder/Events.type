@@ -1,0 +1,11 @@
+{
+  "Id": "VDcQ",
+  "Name": "Events",
+  "Properties": [
+    {
+      "Id": "T6n3",
+      "Name": "value",
+      "Type": "List:Custom:4Jw5"
+    }
+  ]
+}

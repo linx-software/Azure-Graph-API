@@ -1,0 +1,26 @@
+{
+  "Id": "w8Kt",
+  "Name": "Event_Response_locations",
+  "Properties": [
+    {
+      "Id": "AgE5",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D0Nx",
+      "Name": "locationType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PQba",
+      "Name": "uniqueId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "J8sl",
+      "Name": "uniqueIdType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

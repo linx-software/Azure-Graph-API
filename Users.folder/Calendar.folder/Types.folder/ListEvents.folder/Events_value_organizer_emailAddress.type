@@ -1,0 +1,16 @@
+{
+  "Id": "bVFU",
+  "Name": "Events_value_organizer_emailAddress",
+  "Properties": [
+    {
+      "Id": "nIge",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eVWa",
+      "Name": "address",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "vYYY",
+  "Name": "Event_Response_body",
+  "Properties": [
+    {
+      "Id": "8flU",
+      "Name": "contentType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SYqj",
+      "Name": "content",
+      "Type": "Compiled:String"
+    }
+  ]
+}

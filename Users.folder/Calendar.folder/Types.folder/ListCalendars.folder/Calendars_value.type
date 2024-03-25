@@ -1,0 +1,76 @@
+{
+  "Id": "O9rV",
+  "Name": "Calendars_value",
+  "Properties": [
+    {
+      "Id": "yIvf",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EMgb",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lMJZ",
+      "Name": "color",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xDvm",
+      "Name": "hexColor",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "w3JC",
+      "Name": "isDefaultCalendar",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "NNJk",
+      "Name": "changeKey",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7htJ",
+      "Name": "canShare",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "58kl",
+      "Name": "canViewPrivateItems",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "cob2",
+      "Name": "canEdit",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "gzke",
+      "Name": "allowedOnlineMeetingProviders",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "d215",
+      "Name": "defaultOnlineMeetingProvider",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "o3Mf",
+      "Name": "isTallyingResponses",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "JRpG",
+      "Name": "isRemovable",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "dSSD",
+      "Name": "owner",
+      "Type": "Custom:VCPg"
+    }
+  ]
+}

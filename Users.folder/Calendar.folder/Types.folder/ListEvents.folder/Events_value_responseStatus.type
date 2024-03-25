@@ -1,0 +1,16 @@
+{
+  "Id": "zOU5",
+  "Name": "Events_value_responseStatus",
+  "Properties": [
+    {
+      "Id": "b5KX",
+      "Name": "response",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PbWM",
+      "Name": "time",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

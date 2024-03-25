@@ -1,0 +1,16 @@
+{
+  "Id": "WQF1",
+  "Name": "OAuthBody",
+  "Properties": [
+    {
+      "Id": "GPDd",
+      "Name": "Name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X7u8",
+      "Name": "Value",
+      "Type": "Compiled:String"
+    }
+  ]
+}

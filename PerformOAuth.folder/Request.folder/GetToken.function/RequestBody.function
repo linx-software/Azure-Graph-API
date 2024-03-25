@@ -1,0 +1,56 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:WQF1",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "List:Custom:WQF1",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "[{\"Name\":\"grant_type\", \"Value\":\"client_credentials\"},{\"Name\":\"scope\", \"Value\":{\"LinxExpression\":\"[PARSED]\"}},{\"Name\":\"client_id\", \"Value\":{\"LinxExpression\":\"[PARSED]\"}},{\"Name\":\"client_secret\", \"Value\":{\"LinxExpression\":\"[PARSED]\"}}]",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "[]",
+              "Value"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.Scope",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "[]",
+              "Value"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.ClientID",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          },
+          {
+            "typePath": [
+              "[]",
+              "Value"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.ClientSecret",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "List:Custom:WQF1"
+}

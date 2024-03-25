@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "DsSs",
+    "Name": "MsGraphApiUrl",
+    "Type": "Compiled:String",
+    "Value": "https://graph.microsoft.com/v{MsGraphApiVersion}"
+  },
+  {
+    "Id": "S6aK",
+    "Name": "MsGraphApiVersion",
+    "Type": "Compiled:String",
+    "Value": "1.0"
+  }
+]

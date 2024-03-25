@@ -1,0 +1,16 @@
+{
+  "Id": "QVCc",
+  "Name": "Event_Response_organizer_emailAddress",
+  "Properties": [
+    {
+      "Id": "EjaP",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "R9N9",
+      "Name": "address",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "kuJ8",
+  "Name": "Events_value_Type",
+  "Properties": [
+    {
+      "Id": "Lc7e",
+      "Name": "dateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "yxhG",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    }
+  ]
+}

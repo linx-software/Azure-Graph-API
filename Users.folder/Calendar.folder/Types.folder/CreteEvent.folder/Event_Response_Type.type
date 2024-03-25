@@ -1,0 +1,16 @@
+{
+  "Id": "rBX3",
+  "Name": "Event_Response_Type",
+  "Properties": [
+    {
+      "Id": "8ogK",
+      "Name": "dateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "igJI",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    }
+  ]
+}

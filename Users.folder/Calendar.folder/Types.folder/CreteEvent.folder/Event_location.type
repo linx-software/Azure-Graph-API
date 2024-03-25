@@ -1,0 +1,11 @@
+{
+  "Id": "Clj7",
+  "Name": "Event_location",
+  "Properties": [
+    {
+      "Id": "y0Nu",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    }
+  ]
+}
