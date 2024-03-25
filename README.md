@@ -28,11 +28,11 @@ Select the TestAddandListEvents function, add in your TenantID, ClientSecret and
 Copy the relevant function along with its types folder to your solution and call it from anywhere.
 
 ### Notes
-In order for the solution to work correctly, you must ensure that the correct permissions are applied on your Azure/Graph instance. 
+In order for the solution to work correctly, you must ensure that the correct permissions are applied to your Azure/Graph instance. 
 
 ## Contributing
 
-For questions please ask the [Linx community](https://linx/software/community) or use the [Slack channel](https://linxsoftware.slack.com/archives/C01FLBC1XNX). 
+For questions, please ask the [Linx community](https://linx/software/community)
 
 ## License
 
