@@ -1,0 +1,31 @@
+{
+  "Id": "GmJ4",
+  "Name": "SiteDrive_value_quota",
+  "Properties": [
+    {
+      "Id": "pj7r",
+      "Name": "deleted",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "ZW0f",
+      "Name": "remaining",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "leNb",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NeOI",
+      "Name": "total",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "NJVb",
+      "Name": "used",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

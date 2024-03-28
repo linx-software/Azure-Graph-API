@@ -1,0 +1,16 @@
+{
+  "Id": "fYoI",
+  "Name": "DriveChildren_value_file",
+  "Properties": [
+    {
+      "Id": "ZVYx",
+      "Name": "mimeType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nMfm",
+      "Name": "hashes",
+      "Type": "Custom:OUm5"
+    }
+  ]
+}

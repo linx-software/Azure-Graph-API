@@ -1,0 +1,36 @@
+{
+  "Id": "Q2xU",
+  "Name": "DriveChildren_value_parentReference",
+  "Properties": [
+    {
+      "Id": "gY3z",
+      "Name": "driveType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fS5S",
+      "Name": "driveId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SjJY",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iu6o",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dAo6",
+      "Name": "path",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rJky",
+      "Name": "siteId",
+      "Type": "Compiled:String"
+    }
+  ]
+}

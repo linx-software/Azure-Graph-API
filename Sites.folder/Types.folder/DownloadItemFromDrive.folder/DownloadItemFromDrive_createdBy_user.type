@@ -1,0 +1,21 @@
+{
+  "Id": "fBwx",
+  "Name": "DownloadItemFromDrive_createdBy_user",
+  "Properties": [
+    {
+      "Id": "Tadh",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bCN9",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UHgP",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    }
+  ]
+}

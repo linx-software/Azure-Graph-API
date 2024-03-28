@@ -1,0 +1,11 @@
+{
+  "Id": "B3Q5",
+  "Name": "DownloadItemFromDrive_shared",
+  "Properties": [
+    {
+      "Id": "8PV8",
+      "Name": "scope",
+      "Type": "Compiled:String"
+    }
+  ]
+}

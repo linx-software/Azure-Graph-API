@@ -1,0 +1,11 @@
+{
+  "Id": "6V5R",
+  "Name": "DriveChildren_value_shared",
+  "Properties": [
+    {
+      "Id": "3vQj",
+      "Name": "scope",
+      "Type": "Compiled:String"
+    }
+  ]
+}

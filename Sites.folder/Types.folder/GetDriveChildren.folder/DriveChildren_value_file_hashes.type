@@ -1,0 +1,11 @@
+{
+  "Id": "OUm5",
+  "Name": "DriveChildren_value_file_hashes",
+  "Properties": [
+    {
+      "Id": "0Qm9",
+      "Name": "quickXorHash",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "AwHe",
+  "Name": "DownloadItemFromDrive_file_hashes",
+  "Properties": [
+    {
+      "Id": "P1Y0",
+      "Name": "quickXorHash",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Id": "8Fgs",
+  "Name": "DownloadItemFromDrive_parentReference",
+  "Properties": [
+    {
+      "Id": "h0ZX",
+      "Name": "driveType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fSIq",
+      "Name": "driveId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Di25",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zKk0",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ta0T",
+      "Name": "path",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zAGU",
+      "Name": "siteId",
+      "Type": "Compiled:String"
+    }
+  ]
+}

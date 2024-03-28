@@ -1,0 +1,16 @@
+{
+  "Id": "iSHr",
+  "Name": "DownloadItemFromDrive_fileSystemInfo",
+  "Properties": [
+    {
+      "Id": "wL1a",
+      "Name": "createdDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "DvMl",
+      "Name": "lastModifiedDateTime",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

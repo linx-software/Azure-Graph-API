@@ -1,0 +1,29 @@
+{
+  "Properties": [
+    {
+      "Id": "Json string",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallRESTEndpointGraphAPI.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Output type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:XdhJ",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Property map",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Json.Shared.Common.Mappings, Twenty57.Linx.Plugins.Json.Shared, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "[{\"JsonName\":\"@microsoft.graph.downloadUrl\",\"PropertyName\":\"microsoft_graph_downloadUrl\"}]"
+    }
+  ],
+  "Result": "Custom:XdhJ"
+}

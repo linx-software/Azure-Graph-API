@@ -1,0 +1,11 @@
+{
+  "Id": "QeNF",
+  "Name": "SiteDrive_value_Type",
+  "Properties": [
+    {
+      "Id": "FAb0",
+      "Name": "user",
+      "Type": "Custom:jys5"
+    }
+  ]
+}

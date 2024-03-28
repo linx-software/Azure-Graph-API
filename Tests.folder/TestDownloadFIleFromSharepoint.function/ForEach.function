@@ -1,0 +1,25 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:xdWS",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetSiteDrive.value",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:xdWS"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:xdWS",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore",
+      "ConstitutesControlFlow": true
+    }
+  ]
+}

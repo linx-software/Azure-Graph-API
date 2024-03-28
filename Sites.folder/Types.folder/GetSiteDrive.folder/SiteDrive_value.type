@@ -1,0 +1,61 @@
+{
+  "Id": "xdWS",
+  "Name": "SiteDrive_value",
+  "Properties": [
+    {
+      "Id": "rv2N",
+      "Name": "createdDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "Aezr",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JoZK",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yrPB",
+      "Name": "lastModifiedDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "hYYu",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4fcw",
+      "Name": "webUrl",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7XGX",
+      "Name": "driveType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5pTv",
+      "Name": "createdBy",
+      "Type": "Custom:zxgg"
+    },
+    {
+      "Id": "9dEN",
+      "Name": "lastModifiedBy",
+      "Type": "Custom:QeNF"
+    },
+    {
+      "Id": "n6uM",
+      "Name": "owner",
+      "Type": "Custom:QeNF"
+    },
+    {
+      "Id": "JzXu",
+      "Name": "quota",
+      "Type": "Custom:GmJ4"
+    }
+  ]
+}

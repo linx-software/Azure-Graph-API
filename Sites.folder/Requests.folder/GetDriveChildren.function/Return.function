@@ -1,0 +1,19 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Custom:ys53",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "DriveChildren",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:ys53"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "RuntimeCharacteristics": {
+    "IsTerminating": true,
+    "ExecutionPathExecution": "ZeroOrMore"
+  }
+}

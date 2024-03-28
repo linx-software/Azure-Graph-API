@@ -1,0 +1,11 @@
+{
+  "Id": "H04R",
+  "Name": "SiteDrive",
+  "Properties": [
+    {
+      "Id": "cHD7",
+      "Name": "value",
+      "Type": "List:Custom:xdWS"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "WLda",
+  "Name": "SiteDrive_value_createdBy_user",
+  "Properties": [
+    {
+      "Id": "HXex",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    }
+  ]
+}

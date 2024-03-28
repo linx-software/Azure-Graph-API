@@ -17,6 +17,7 @@
   "Items": [
     "Tests.folder",
     "PerformOAuth.folder",
-    "Users.folder"
+    "Users.folder",
+    "Sites.folder"
   ]
 }

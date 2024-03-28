@@ -1,0 +1,81 @@
+{
+  "Id": "XdhJ",
+  "Name": "DownloadItemFromDrive",
+  "Properties": [
+    {
+      "Id": "m5WO",
+      "Name": "microsoft_graph_downloadUrl",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vLCP",
+      "Name": "createdDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "ayiQ",
+      "Name": "eTag",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GZNB",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mTqj",
+      "Name": "lastModifiedDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "dcZC",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vBfJ",
+      "Name": "webUrl",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0NbV",
+      "Name": "cTag",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VYsu",
+      "Name": "size",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "U5nh",
+      "Name": "createdBy",
+      "Type": "Custom:xZWd"
+    },
+    {
+      "Id": "6nJY",
+      "Name": "lastModifiedBy",
+      "Type": "Custom:xZWd"
+    },
+    {
+      "Id": "2cHU",
+      "Name": "parentReference",
+      "Type": "Custom:8Fgs"
+    },
+    {
+      "Id": "EMqi",
+      "Name": "file",
+      "Type": "Custom:zWSa"
+    },
+    {
+      "Id": "oE82",
+      "Name": "fileSystemInfo",
+      "Type": "Custom:iSHr"
+    },
+    {
+      "Id": "kxbi",
+      "Name": "shared",
+      "Type": "Custom:B3Q5"
+    }
+  ]
+}

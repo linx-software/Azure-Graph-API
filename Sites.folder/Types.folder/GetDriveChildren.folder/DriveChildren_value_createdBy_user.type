@@ -1,0 +1,21 @@
+{
+  "Id": "Ch89",
+  "Name": "DriveChildren_value_createdBy_user",
+  "Properties": [
+    {
+      "Id": "SBNP",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aeGY",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "roLc",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    }
+  ]
+}

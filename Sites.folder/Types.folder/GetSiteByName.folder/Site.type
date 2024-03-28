@@ -1,0 +1,36 @@
+{
+  "Id": "oNQT",
+  "Name": "Site",
+  "Properties": [
+    {
+      "Id": "EPxq",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D3Fd",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D3rx",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VJ9g",
+      "Name": "createdDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "oQPv",
+      "Name": "lastModifiedDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "8kQt",
+      "Name": "webUrl",
+      "Type": "Compiled:String"
+    }
+  ]
+}

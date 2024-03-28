@@ -1,0 +1,11 @@
+{
+  "Id": "ex78",
+  "Name": "RawChildrenValue",
+  "Properties": [
+    {
+      "Id": "TUoq",
+      "Name": "value",
+      "Type": "List:Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:xfLb",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "DriveChildren.value",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:xfLb"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:xfLb",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "JSONReader",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:xfLb"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

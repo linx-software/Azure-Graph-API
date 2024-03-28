@@ -1,0 +1,39 @@
+{
+  "Properties": [
+    {
+      "Id": "Contents",
+      "Type": "Compiled:System.Collections.Generic.IEnumerable`1[[System.Byte, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallRESTEndpointGetFIle.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "List:Compiled:Byte"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "File Does Not Exist",
+      "Type": "Compiled:Twenty57.Linx.Plugins.File.Shared.Common.FileReadWrite.DoesNotExistOption, Twenty57.Linx.Plugins.File.Shared, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "CreateFile"
+    },
+    {
+      "Id": "File Exists",
+      "Type": "Compiled:Twenty57.Linx.Plugins.File.Shared.Common.FileReadWrite.ExistOption, Twenty57.Linx.Plugins.File.Shared, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "OverwriteFile"
+    },
+    {
+      "Id": "File path",
+      "Type": "Compiled:Twenty57.Linx.Plugins.File.Shared.Common.FileReadWrite.IBinaryFileHandle, Twenty57.Linx.Plugins.File.Shared, Version=1.2.1.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Parameters.SaveLocation+JSONReader.name",
+        "CompiledExpression": "={1}+{0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "JZC2",
+  "Name": "DriveChildren_value_fileSystemInfo",
+  "Properties": [
+    {
+      "Id": "rb5u",
+      "Name": "createdDateTime",
+      "Type": "Compiled:DateTime"
+    },
+    {
+      "Id": "OifM",
+      "Name": "lastModifiedDateTime",
+      "Type": "Compiled:DateTime"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "zWSa",
+  "Name": "DownloadItemFromDrive_file",
+  "Properties": [
+    {
+      "Id": "w7NM",
+      "Name": "mimeType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D9Fh",
+      "Name": "hashes",
+      "Type": "Custom:AwHe"
+    }
+  ]
+}

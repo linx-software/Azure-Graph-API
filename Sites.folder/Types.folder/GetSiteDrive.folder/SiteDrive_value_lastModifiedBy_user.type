@@ -1,0 +1,21 @@
+{
+  "Id": "jys5",
+  "Name": "SiteDrive_value_lastModifiedBy_user",
+  "Properties": [
+    {
+      "Id": "OQyU",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Dcfy",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FnzF",
+      "Name": "displayName",
+      "Type": "Compiled:String"
+    }
+  ]
+}
